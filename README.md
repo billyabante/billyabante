@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python**
 
-💬 Ask me about **[here](https://github.com/billyabante/billyabante/issues)**
+💬 Ask me **[here](https://github.com/billyabante/billyabante/issues)**
 
 ⚡ Fun fact **Your brain is constantly eating itself**
 
