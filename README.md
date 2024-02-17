@@ -37,7 +37,14 @@
     <img src="https://skillicons.dev/icons?i=python,vscode,github" />
    </div>
    
-<picture>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+
+    <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg]"
@@ -48,11 +55,6 @@
   />
 </picture>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=billyabante&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=billyabante&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
 </div>
