@@ -41,8 +41,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">   
+ 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -62,5 +61,6 @@
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyabante" alt="billyabante" /></a> </p>
 
-
+<br>
+<div align="center">  
 
