@@ -16,7 +16,7 @@
 
 💬 Ask me about **[here](https://github.com/billyabante/billyabante/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Your brain is constantly eating itself**
 
  </div>
  
@@ -67,11 +67,4 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T?si=KxYSwmmBRaScErCGXmBMAw' /></a>
-</div>
-
-<br/>
-
 
