@@ -36,7 +36,17 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,vscode,github" />
    </div>
-
+   
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg]"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <hr/>
 
@@ -47,25 +57,7 @@
   <img src="https://streak-stats.demolab.com?user=billyabante&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
 </div>
 
-
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyabante" alt="billyabante" /></a> </p>
 
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/billyabante/billyabante/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
 
