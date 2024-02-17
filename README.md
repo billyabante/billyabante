@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Web3**
+ 🔭 I’m currently interested in **Web3**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Programming**
 
 💬 Ask me **[here](https://github.com/billyabante/billyabante/issues)**
 
@@ -54,13 +54,10 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-</h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=billyabante&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=billyabante&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
 </div>
-</h2>
-
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyabante" alt="billyabante" /></a> </p>
 
