@@ -54,8 +54,8 @@
  <br>
 </picture>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=billyabante&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=oceanic-next&locale=en&hide_border=false" height="165" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=billyabante&locale=en&mode=daily&theme=retro&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=billyabante&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox-dark&locale=en&hide_border=false" height="165" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=billyabante&locale=en&mode=daily&theme=gruvbox-dark&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
 </div>
   <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyabante" alt="billyabante" /></a> </p>
