@@ -34,24 +34,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,github,matlab" />
    </div>
    
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align="center">      
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg]"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
- <br>
+<div align="center">  
 </picture>
 
   <img src="https://github-readme-stats.vercel.app/api?username=billyabante&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox-dark&locale=en&hide_border=false" height="165" alt="stats graph"  />
@@ -60,5 +50,18 @@
   <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billyabante" alt="billyabante" /></a> </p>
 
+
+<div align="center">      
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="[https://github.com/saadeghi/saadeghi/blob/master/dino.gif]"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"
+  />
+ <br>
+    
 </div>
 
